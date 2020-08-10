@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    background-image: linear-gradient(-90deg, #C6CCD4,#F2E3F7 );
+}
+
+p{
+    font-size: 10rem;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center, justify;
+    margin:15%;
+    font-weight: 600;
+}
+
+#strategic{
+    font-weight: 300;
+    font-style: italic;
+}
+
+#doing_things{
+    background-color: #C830FE;
+    color: white;
+}
